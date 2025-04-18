@@ -8,10 +8,8 @@ This project is a data science solution to **track and predict menstrual cycle p
 - 🔍 **Exploratory Data Analysis (EDA)** using Seaborn & Matplotlib
 - 🧹 **Data Cleaning & Feature Engineering** (e.g., cycle difference, predicted start date)
 - 📊 **Statistical Tests**: Shapiro-Wilk for normality, Pearson correlation
-- 🤖 **Machine Learning**: Linear Regression for cycle start prediction
+- 🤖 **Machine Learning**: Linear Regression & Random Forest for cycle start prediction
 - 📈 **Evaluation Metrics**: R² Score and MAE
-- 🎯 Follows the **CRISP-DM methodology**
-- 🧩 (Coming Soon): Full-stack app for personalized cycle tracking
 
 
 🧠 Technologies Used
